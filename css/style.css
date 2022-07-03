@@ -79,3 +79,21 @@ main{
     gap: 20px 10px;
     margin-top: 1rem;
 }
+
+img{
+    position: relative;
+}
+
+.icon-view{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 180px;
+    margin: auto;
+}
+
+.now:hover{
+    opacity: 0.6;
+    max-width: 100%;
+}
